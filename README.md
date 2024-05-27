@@ -1,5 +1,7 @@
 # Python Socket TCP Client-Server
-## A Simple Client-Server Application Using TCP Sockets in Python
+
+| [🇬🇧 English version](#english) | [🇪🇸 Versión en Español](#español) |
+|--------------------------|--------------------------|
 
 This repository demonstrates a basic client-server communication setup using TCP sockets implemented in Python. The server and client can be run locally to facilitate communication between two processes on the same machine.
 
@@ -13,6 +15,10 @@ This repository demonstrates a basic client-server communication setup using TCP
   - [Starting the Server](#starting-the-server)
   - [Starting the Client](#starting-the-client)
 - [Testing Communication](#testing-communication)
+
+---
+
+## English
 
 ## Overview
 
@@ -28,7 +34,7 @@ This project sets up a basic client-server model using TCP sockets in Python to 
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/LizzyMaken/python-socket-tcp.git
+    git clone https://github.com/yourusername/python-socket-tcp-client-server.git
     cd python-socket-tcp-client-server
     ```
 
@@ -59,3 +65,51 @@ This project sets up a basic client-server model using TCP sockets in Python to 
 
 Follow the prompts on both the server and client to send and receive messages, verifying that the communication works correctly.
 
+---
+
+## Español
+
+## Descripción General
+
+Este repositorio demuestra una configuración básica de comunicación cliente-servidor utilizando sockets TCP implementados en Python. El servidor y el cliente pueden ejecutarse localmente para facilitar la comunicación entre dos procesos en la misma máquina.
+
+## Configuración
+
+### Requisitos Previos
+
+- Python 3 instalado en tu máquina
+
+### Configuración Local
+
+1. Clona el repositorio:
+    ```sh
+    git clone https://github.com/yourusername/python-socket-tcp-client-server.git
+    cd python-socket-tcp-client-server
+    ```
+
+2. Asegúrate de que Python 3 esté instalado:
+    ```sh
+    python3 --version
+    ```
+
+## Ejecución de la Aplicación
+
+### Iniciar el Servidor
+
+1. Abre una terminal y navega hasta el directorio que contiene `server.py`.
+2. Ejecuta el script del servidor:
+    ```sh
+    python3 server.py
+    ```
+
+### Iniciar el Cliente
+
+1. Abre otra terminal y navega hasta el directorio que contiene `client.py`.
+2. Ejecuta el script del cliente:
+    ```sh
+    python3 client.py
+    ```
+
+## Prueba de la Comunicación
+
+Sigue las instrucciones en ambos, servidor y cliente, para enviar y recibir mensajes, verificando que la comunicación funcione correctamente.
