@@ -1,8 +1,7 @@
+[Haz click aquí para acceder a la Versión en Español](#español)
+
 # Python Socket TCP Client-Server
 ## A Simple Client-Server Application Using TCP Sockets in Python
-
-| [English version](#english) | [Versión en Español](#español) |
-|--------------------------|--------------------------|
 
 This repository demonstrates a basic client-server communication setup using TCP sockets implemented in Python. The server and client can be run locally to facilitate communication between two processes on the same machine.
 
@@ -70,9 +69,11 @@ Follow the prompts on both the server and client to send and receive messages, v
 
 ## Español
 
+[Click here to go back to the English version](#english)
+
 ## Descripción General
 
-Este repositorio demuestra una configuración básica de comunicación cliente-servidor utilizando sockets TCP implementados en Python. El servidor y el cliente pueden ejecutarse localmente para facilitar la comunicación entre dos procesos en la misma máquina.
+Este proyecto muestra una configuración básica de comunicación cliente-servidor utilizando sockets TCP implementados en Python. El servidor y el cliente pueden ejecutarse localmente para facilitar la comunicación entre dos procesos en la misma máquina.
 
 ## Tabla de Contenidos
 
