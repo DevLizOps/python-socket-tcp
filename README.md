@@ -1,5 +1,7 @@
 [Haz click aquí para acceder a la Versión en Español](#español)
 
+## English
+
 # Python Socket TCP Client-Server
 ## A Simple Client-Server Application Using TCP Sockets in Python
 
@@ -16,10 +18,6 @@ This repository demonstrates a basic client-server communication setup using TCP
   - [Starting the Client](#starting-the-client)
 - [Testing Communication](#testing-communication)
 
----
-
-## English
-
 ## Overview
 
 This project sets up a basic client-server model using TCP sockets in Python to facilitate communication between two processes on the same machine.
@@ -28,20 +26,18 @@ This project sets up a basic client-server model using TCP sockets in Python to 
 
 ### Prerequisites
 
-- Python 3 installed on your machine
+- Python 3 installed on your machine.
 
 ### Local Setup
 
 1. Clone the repository:
-    ```sh
-    git clone https://github.com/yourusername/python-socket-tcp-client-server.git
-    cd python-socket-tcp-client-server
-    ```
+
+       git clone https://github.com/yourusername/python-socket-tcp-client-server.git
+       cd python-socket-tcp-client-server
 
 2. Ensure Python 3 is installed:
-    ```sh
-    python3 --version
-    ```
+
+       python3 --version
 
 ## Running the Application
 
@@ -49,17 +45,15 @@ This project sets up a basic client-server model using TCP sockets in Python to 
 
 1. Open a terminal and navigate to the directory containing `server.py`.
 2. Run the server script:
-    ```sh
-    python3 server.py
-    ```
+
+       python3 server.py
 
 ### Starting the Client
 
 1. Open another terminal and navigate to the directory containing `client.py`.
 2. Run the client script:
-    ```sh
-    python3 client.py
-    ```
+
+       python3 client.py
 
 ## Testing Communication
 
@@ -94,20 +88,18 @@ Este proyecto establece un modelo básico de cliente-servidor utilizando sockets
 
 ### Requisitos Previos
 
-- Python 3 instalado en tu máquina
+- Python 3 instalado en tu máquina.
 
 ### Configuración Local
 
 1. Clona el repositorio:
-    ```sh
-    git clone https://github.com/yourusername/python-socket-tcp-client-server.git
-    cd python-socket-tcp-client-server
-    ```
+
+       git clone https://github.com/yourusername/python-socket-tcp-client-server.git
+       cd python-socket-tcp-client-server
 
 2. Asegúrate de que Python 3 esté instalado:
-    ```sh
+
     python3 --version
-    ```
 
 ## Ejecución de la Aplicación
 
@@ -115,17 +107,15 @@ Este proyecto establece un modelo básico de cliente-servidor utilizando sockets
 
 1. Abre una terminal y navega hasta el directorio que contiene `server.py`.
 2. Ejecuta el script del servidor:
-    ```sh
-    python3 server.py
-    ```
+   
+       python3 server.py
 
 ### Iniciar el Cliente
 
 1. Abre otra terminal y navega hasta el directorio que contiene `client.py`.
 2. Ejecuta el script del cliente:
-    ```sh
-    python3 client.py
-    ```
+
+       python3 client.py
 
 ## Prueba de la Comunicación
 
