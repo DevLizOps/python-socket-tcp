@@ -32,7 +32,7 @@ This project sets up a basic client-server model using TCP sockets in Python to 
 
 1. Clone the repository:
 
-       git clone https://github.com/yourusername/python-socket-tcp-client-server.git
+       git clone https://github.com/DevLizOps/python-socket-tcp.git
        cd python-socket-tcp-client-server
 
 2. Ensure Python 3 is installed:
@@ -94,7 +94,7 @@ Este proyecto establece un modelo básico de cliente-servidor utilizando sockets
 
 1. Clona el repositorio:
 
-       git clone https://github.com/yourusername/python-socket-tcp-client-server.git
+       git clone https://github.com/DevLizOps/python-socket-tcp.git
        cd python-socket-tcp-client-server
 
 2. Asegúrate de que Python 3 esté instalado:
